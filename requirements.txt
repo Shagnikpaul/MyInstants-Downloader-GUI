@@ -1,6 +1,5 @@
 Pillow
 playsound
-customtkinter
 requests
 beautifulsoup4
-lxml
+PySide6

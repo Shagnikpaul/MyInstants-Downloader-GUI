@@ -9,8 +9,10 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+scripts/build/
 develop-eggs/
 dist/
+scripts/dist/
 downloads/
 eggs/
 .eggs/
@@ -217,4 +219,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-CODEX.md
+AGENT.md
+settings.json
